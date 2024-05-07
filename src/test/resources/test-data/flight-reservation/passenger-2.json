@@ -1,0 +1,11 @@
+{
+  "firstname":"marshall",
+  "lastname":"mathers",
+  "email":"mja@pop.com",
+  "password":"m&j",
+  "street":"456 main",
+  "city":"detroit",
+  "zip":"40001",
+  "passengersCount":"2",
+  "expectedPrice":"$1169 USD"
+}
